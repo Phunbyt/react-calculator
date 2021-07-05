@@ -1,0 +1,22 @@
+.display{
+     width:90%;
+    max-width:400px;
+    background-color: black;
+    height: 60px;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+    flex-direction:column;
+}
+
+.input{
+    color:#fff;
+    height:25px;
+    
+}
+
+.output{
+    color:orange;
+    height:25px;
+    
+}
